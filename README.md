@@ -1,5 +1,5 @@
 -👋Hi, I’m @Striker0047
--😁A Newbie with big Dreams!
+-😁A Newbie!
 -🌱I’m currently learning Js, Py and css.
 -😀Student
 -📫Mail- striker004@protonmail.com
